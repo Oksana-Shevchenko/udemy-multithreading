@@ -9,3 +9,6 @@ MetricsPrinter thread - capture average time from metrics and prints it.
 
 Data race:
 Add data race example. Fix it with a help of volatile.
+
+Deadlock:
+Add deadlock example. Fix it with a help of changing lock order.
